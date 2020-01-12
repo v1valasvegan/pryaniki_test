@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/a4cddd35f7deeea4bf5b/maintainability)](https://codeclimate.com/github/v1valasvegan/pryaniki_test/maintainability)
+
 
 # Тестовое задание 
 
